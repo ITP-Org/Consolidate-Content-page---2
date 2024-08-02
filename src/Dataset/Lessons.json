@@ -1,0 +1,209 @@
+[
+    {
+        "lesson": "Structure And Bonding",
+        "content": [
+            {
+                "Sub_lesson": "Covalent Bonds"
+            },
+            {
+                "Sub_lesson": "Dative Covalent Bonds Dative Covalent Bonds Dative Covalent Bonds"
+            },
+            {
+                "Sub_lesson": "Resonance Structures"
+            },
+            {
+                "Sub_lesson": "Dipole Moments"
+            },
+            {
+                "Sub_lesson": "Ionic Bonds"
+            },
+            {
+                "Sub_lesson": "Metallic Bonds"
+            },
+            {
+                "Sub_lesson": "Bond Polarity"
+            },
+            {
+                "Sub_lesson": "Molecular Geometry"
+            }
+        ],
+        "materials": [
+            {
+                "name": "Atomic & Covalent Bonds",
+                "type":"PDF",
+                "link":"https://drive.google.com/file/d/1hJnnBnS16L8l8xlRQmmQUWtJDu-PGuer/view?usp=drive_link"
+            },
+                        {
+                "name": "Atomic  Bonds - Part 2",
+                "type":"PDF",
+                "link":"https://www.youtube.com/watch?v=QK8mJJJvaes"
+            },
+                        {
+                "name": "Covalent Bonds - Part 3",
+                "type":"PDF",
+                "link":"https://www.youtube.com/watch?v=QK8mJJJvaes"
+            }
+            ]
+    },
+    {
+        "lesson": "The Atomic Theory of Matter",
+        "content": [
+            {
+                "Sub_lesson": "Dalton's Atomic Theory"
+            },
+            {
+                "Sub_lesson": "Modern Atomic Theory"
+            },
+            {
+                "Sub_lesson": "Atomic Models (Thomson, Rutherford, Bohr)"
+            },
+            {
+                "Sub_lesson": "Atomic Mass and Isotopes"
+            },
+            {
+                "Sub_lesson": "Mole Concept"
+            },
+            {
+                "Sub_lesson": "Avogadro's Number"
+            }
+        ],        "materials": [
+            {
+                "name": "Atomic & Covalent Bonds",
+                "type":"PDF",
+                "link":"https://drive.google.com/file/d/1hJnnBnS16L8l8xlRQmmQUWtJDu-PGuer/view?usp=drive_link"
+            }]
+    },
+    {
+        "lesson": "Electromagnetic Radiation and Waves",
+        "content": [
+            {
+                "Sub_lesson": "Nature of Electromagnetic Radiation"
+            },
+            {
+                "Sub_lesson": "Wave-Particle Duality"
+            },
+            {
+                "Sub_lesson": "Electromagnetic Spectrum"
+            },
+            {
+                "Sub_lesson": "Photoelectric Effect"
+            },
+            {
+                "Sub_lesson": "Planck's Quantum Theory"
+            },
+            {
+                "Sub_lesson": "Wave Functions"
+            },
+            {
+                "Sub_lesson": "Heisenberg Uncertainty Principle"
+            },
+            {
+                "Sub_lesson": "Atomic Emission Spectra"
+            },
+            {
+                "Sub_lesson": "Absorption Spectra"
+            },
+            {
+                "Sub_lesson": "Blackbody Radiation"
+            },
+            {
+                "Sub_lesson": "Speed of Light"
+            },
+            {
+                "Sub_lesson": "Wave Equations"
+            }
+        ]
+    },
+    {
+        "lesson": "Electronic Energy Levels of Atoms",
+        "content": [
+            {
+                "Sub_lesson": "Quantum Numbers"
+            },
+            {
+                "Sub_lesson": "Atomic Orbitals"
+            },
+            {
+                "Sub_lesson": "Electron Configuration"
+            }
+        ]
+    },
+    {
+        "lesson": "Electron Configuration",
+        "content": [
+            {
+                "Sub_lesson": "Electron Shells and Subshells"
+            },
+            {
+                "Sub_lesson": "Orbital Diagrams"
+            },
+            {
+                "Sub_lesson": "Aufbau Process"
+            },
+            {
+                "Sub_lesson": "Periodic Table Trends"
+            },
+            {
+                "Sub_lesson": "Valence Electrons"
+            },
+            {
+                "Sub_lesson": "Electron Configurations of Ions"
+            },
+            {
+                "Sub_lesson": "Shielding Effect"
+            }
+        ]
+    },
+    {
+        "lesson": "Building of Periodic Table",
+        "content": [
+            {
+                "Sub_lesson": "History of the Periodic Table"
+            },
+            {
+                "Sub_lesson": "Mendeleev's Periodic Law"
+            },
+            {
+                "Sub_lesson": "Modern Periodic Table"
+            },
+            {
+                "Sub_lesson": "Periodic Trends (Atomic Radius, Ionization Energy)"
+            },
+            {
+                "Sub_lesson": "Group and Period Classification"
+            }
+        ]
+    },
+    {
+        "lesson": "Bonding and Intermolecular Forces",
+        "content": [
+            {
+                "Sub_lesson": "Types of Chemical Bonds"
+            },
+            {
+                "Sub_lesson": "Lewis Structures"
+            },
+            {
+                "Sub_lesson": "VSEPR Theory"
+            },
+            {
+                "Sub_lesson": "Hybridization"
+            },
+            {
+                "Sub_lesson": "Dipole-Dipole Interactions"
+            },
+            {
+                "Sub_lesson": "Hydrogen Bonding"
+            },
+            {
+                "Sub_lesson": "London Dispersion Forces"
+            },
+            {
+                "Sub_lesson": "Covalent Network Solids"
+            },
+            {
+                "Sub_lesson": "Metallic Bonding"
+            }
+        ]
+    }
+]
